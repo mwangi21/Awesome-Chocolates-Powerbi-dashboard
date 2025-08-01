@@ -47,7 +47,7 @@ To create a data-driven reporting dashboard that:
 ![Cost Trend](./AwesomeChocolates%20Images/Cost%20by%20Start%20of%20the%20Month.PNG)
 
 ### 💰 Profit Trend
-![Profit Trend](./AwesomeChocolates%20Images/Profit%20by%20Start%20of%20the%20Month.PNG)
+![Profit Trend](./AwesomeChocolates%20Images/Profits%20by%20Start%20of%20the%20Month.PNG)
 
 ### 🚛 Shipments Trend
 ![Shipments by Month](./AwesomeChocolates%20Images/Shipments%20by%20Start%20of%20the%20Month.PNG)

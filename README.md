@@ -127,7 +127,7 @@ Users can interactively adjust the visuals using slicers for granular insights.
 
 **Edwin Wanjohi**  
 📫 :wanjohiiedwin@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/eddie-wanjohi)
+🔗 [LinkedIn]www.linkedin.com/in/eddie-wanjohi
 
 ---
 

@@ -88,7 +88,7 @@ Key highlights:
 
 ## 🎛️ Dynamic Filters and Slicers
 
-![Sidebar Filters](./images/slicer.PNG)
+![Sidebar Filters](./AwesomeChocolates%20Images/slicer.PNG)
 
 - Product Category: Bars, Bites, Other
 - Region Selector: USA, UK, India, Canada, Australia, New Zealand

@@ -64,7 +64,7 @@ To create a data-driven reporting dashboard that:
 
 ## 🍬 Product-Level Insights
 
-![Product-Level View](./images/Product%20Analysis.PNG)
+![Product-Level View](./AwesomeChocolates%20Images/Product%20Analysis.PNG)
 
 Key highlights:
 - Highest profit margin: **Peanut Butter Cubes** (87.1%)

@@ -38,19 +38,19 @@ To create a data-driven reporting dashboard that:
 ## 📈 Trend Analysis Visuals
 
 ### 📅 Sales Over Time
-![Sales Trend](./images/Sales%20by%20Start%20of%20the%20Month.PNG)
+![Sales Trend](./AwesomeChocolates%20Images/Sales%20by%20Start%20of%20the%20Month.PNG)
 
 ### 📦 Boxes Trend
-![Boxes Trend](./images/Boxes%20By%20Start%20of%20The%20Month.PNG)
+![Boxes Trend](././AwesomeChocolate%20By%20Start%20of%20The%20Month.PNG)
 
 ### 💸 Cost Trend
-![Cost Trend](./images/Cost%20by%20Start%20of%20the%20Month.PNG)
+![Cost Trend](././AwesomeChocolate%20by%20Start%20of%20the%20Month.PNG)
 
 ### 💰 Profit Trend
-![Profit Trend](./images/Profits%20by%20Start%20of%20the%20Month.PNG)
+![Profit Trend](././AwesomeChocolate%20by%20Start%20of%20the%20Month.PNG)
 
 ### 🚛 Shipments Trend
-![Shipments by Month](./images/Shipments%20By%20the%20start%20of%20the%20Month.PNG)
+![Shipments by Month](././AwesomeChocolate%20By%20the%20start%20of%20the%20Month.PNG)
 
 
 

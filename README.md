@@ -50,7 +50,7 @@ To create a data-driven reporting dashboard that:
 ![Profit Trend](./AwesomeChocolates%20Images/Profits%20by%20Start%20of%20the%20Month.PNG)
 
 ### 🚛 Shipments Trend
-![Shipments by Month](./AwesomeChocolates%20Images/Shipments%20by%20Start%20of%20the%20Month.PNG)
+![Shipments by Month](./AwesomeChocolates%20Images/Shipment%20Analysis.PNG)
 
 
 ## 🚚 Shipment Distribution View

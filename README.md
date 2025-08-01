@@ -75,7 +75,7 @@ Key highlights:
 
 ## 👥 Sales Team Breakdown
 
-![Salesperson Analysis](./images/Sales%20Person%20Analysis.PNG)
+![Salesperson Analysis](./AwesomeChocolates%20Images/Sales%20Person%20Analysis.PNG)
 
 - Lists all sales reps with metrics for:
   - Sales revenue

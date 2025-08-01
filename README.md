@@ -97,7 +97,7 @@ Users can interactively adjust the visuals using slicers for granular insights.
 
 ## 🧱 Data Model Overview
 
-![Data Model View](./images/Model%20view.PNG)
+![Data Model View](./AwesomeChocolates%20Images/Model%20view.PNG)
 
 ### Core Tables:
 - `shipments`: Fact table containing cost, box counts, product, date, geography

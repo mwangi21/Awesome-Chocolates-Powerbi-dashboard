@@ -16,7 +16,7 @@ To create a data-driven reporting dashboard that:
 
 ## 🖼️ Main Dashboard Snapshot
 
-![Main Dashboard](./AwesomeChocolates)
+![Main Dashboard](./AwesomeChocolates%20Images/Awesome%20Chocolates%20Dashboard.PNG)
 
 
 

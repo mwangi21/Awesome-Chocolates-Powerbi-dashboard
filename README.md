@@ -50,12 +50,12 @@ To create a data-driven reporting dashboard that:
 ![Profit Trend](./AwesomeChocolates%20Images/Profits%20by%20Start%20of%20the%20Month.PNG)
 
 ### 🚛 Shipments Trend
-![Shipments by Month](./AwesomeChocolates%20Images/Shipment%20Analysis.PNG)
+![Shipments by Month]()
 
 
 ## 🚚 Shipment Distribution View
 
-![Shipment Histogram](./images/Shipment%20Analysis.PNG)
+![Shipment Histogram](./AwesomeChocolates%20Images/Shipment%20Analysis.PNG)
 
 - **Histogram** of shipment volume distribution
 - **LBS Efficiency Gauge** shows 10.2% logistics weight efficiency
